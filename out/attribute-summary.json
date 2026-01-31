@@ -1,0 +1,63 @@
+{
+  "krdict": {
+    "featAtt": [],
+    "xmlAttrNames": [
+      "att",
+      "dtdVersion",
+      "val"
+    ]
+  },
+  "opendict": {
+    "wordInfoTags": [],
+    "senseInfoTags": []
+  },
+  "stdict": {
+    "wordInfoTags": [
+      "abbreviation",
+      "allomorph",
+      "cat",
+      "comm_pattern_code",
+      "conjugation",
+      "definition",
+      "definition_original",
+      "example",
+      "grammar",
+      "label",
+      "language_type",
+      "link",
+      "link_target_code",
+      "origin",
+      "original_language",
+      "pattern",
+      "pos",
+      "pos_code",
+      "pronunciation",
+      "scientific_name",
+      "sense_code",
+      "source",
+      "study_def",
+      "type",
+      "unit",
+      "word",
+      "word_type",
+      "word_unit"
+    ],
+    "senseInfoTags": [
+      "cat",
+      "definition",
+      "definition_original",
+      "example",
+      "grammar",
+      "label",
+      "link",
+      "link_target_code",
+      "pattern",
+      "scientific_name",
+      "sense_code",
+      "source",
+      "type",
+      "unit",
+      "word"
+    ]
+  }
+}

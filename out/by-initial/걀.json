@@ -1,0 +1,1007 @@
+[
+  {
+    "term": "걀걀",
+    "definitions": [
+      "암탉이나 갈매기 따위가 내는 소리."
+    ],
+    "source": "stdict",
+    "senses": [
+      {
+        "sense_code": "523565",
+        "type": "일반어",
+        "definition": "암탉이나 갈매기 따위가 내는 소리.",
+        "definition_original": "암탉이나 갈매기 따위가 내는 소리.",
+        "example": "우리 집 암탉이 걀걀 소리를 내며 알 낳을 자리를 본다."
+      }
+    ],
+    "attrs": {
+      "wordInfo": {
+        "word": [
+          "걀걀",
+          "걀걀-거리다",
+          "걀걀-대다",
+          "걀걀-하다",
+          "꺌꺌"
+        ],
+        "word_unit": "단어",
+        "word_type": "고유어",
+        "pronunciation": "걀걀",
+        "type": [
+          "부표제어",
+          "부표제어",
+          "부표제어",
+          "참고 어휘",
+          "일반어"
+        ],
+        "link_target_code": [
+          "12947",
+          "12948",
+          "392645",
+          "403716"
+        ],
+        "link": [
+          "https://stdict.korean.go.kr/search/searchView.do?word_no=12947&searchKeywordTo=1",
+          "https://stdict.korean.go.kr/search/searchView.do?word_no=12948&searchKeywordTo=1",
+          "https://stdict.korean.go.kr/search/searchView.do?word_no=392645&searchKeywordTo=1",
+          "https://stdict.korean.go.kr/search/searchView.do?word_no=403716&searchKeywordTo=3"
+        ],
+        "unit": "어휘",
+        "pos_code": "12946001",
+        "pos": "부사",
+        "comm_pattern_code": "12946001001",
+        "sense_code": "523565",
+        "definition": "암탉이나 갈매기 따위가 내는 소리.",
+        "definition_original": "암탉이나 갈매기 따위가 내는 소리.",
+        "example": "우리 집 암탉이 걀걀 소리를 내며 알 낳을 자리를 본다."
+      }
+    }
+  },
+  {
+    "term": "걀걀-거리다",
+    "definitions": [
+      "암탉이나 갈매기 따위가 내는 소리가 자꾸 나다."
+    ],
+    "source": "stdict",
+    "senses": [
+      {
+        "sense_code": "339726",
+        "type": [
+          "일반어",
+          "동의어"
+        ],
+        "definition": "암탉이나 갈매기 따위가 내는 소리가 자꾸 나다.",
+        "definition_original": "암탉이나 갈매기 따위가 내는 소리가 자꾸 나다.",
+        "example": "그는 갑자기 목에 사레라도 들었는지 걀걀거리며 암탉이 알겯는 소리를 냈다.",
+        "source": "김소진, 열린 사회와 그 적들",
+        "word": "걀걀-대다",
+        "unit": "의미",
+        "link_target_code": "81884",
+        "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=12948&searchKeywordTo=3"
+      }
+    ],
+    "attrs": {
+      "wordInfo": {
+        "word": [
+          "걀걀-거리다",
+          "걀걀-대다"
+        ],
+        "word_unit": "단어",
+        "word_type": "고유어",
+        "pronunciation": "걀걀거리다",
+        "conjugation": [
+          "걀걀거리어",
+          "걀걀거리니"
+        ],
+        "abbreviation": "걀걀거려",
+        "pos_code": "12947001",
+        "pos": "동사",
+        "comm_pattern_code": "12947001001",
+        "sense_code": "339726",
+        "type": [
+          "일반어",
+          "동의어"
+        ],
+        "definition": "암탉이나 갈매기 따위가 내는 소리가 자꾸 나다.",
+        "definition_original": "암탉이나 갈매기 따위가 내는 소리가 자꾸 나다.",
+        "example": "그는 갑자기 목에 사레라도 들었는지 걀걀거리며 암탉이 알겯는 소리를 냈다.",
+        "source": "김소진, 열린 사회와 그 적들",
+        "unit": "의미",
+        "link_target_code": "81884",
+        "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=12948&searchKeywordTo=3"
+      }
+    }
+  },
+  {
+    "term": "걀걀-대다",
+    "definitions": [
+      "암탉이나 갈매기 따위가 내는 소리가 자꾸 나다."
+    ],
+    "source": "stdict",
+    "senses": [
+      {
+        "sense_code": "81884",
+        "type": [
+          "일반어",
+          "동의어"
+        ],
+        "definition": "암탉이나 갈매기 따위가 내는 소리가 자꾸 나다.",
+        "definition_original": "암탉이나 갈매기 따위가 내는 소리가 자꾸 나다.",
+        "word": "걀걀-거리다",
+        "unit": "의미",
+        "link_target_code": "339726",
+        "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=12947&searchKeywordTo=3"
+      }
+    ],
+    "attrs": {
+      "wordInfo": {
+        "word": [
+          "걀걀-대다",
+          "걀걀-거리다"
+        ],
+        "word_unit": "단어",
+        "word_type": "고유어",
+        "pronunciation": "걀걀대다",
+        "conjugation": [
+          "걀걀대어",
+          "걀걀대니"
+        ],
+        "abbreviation": "걀걀대",
+        "pos_code": "12948001",
+        "pos": "동사",
+        "comm_pattern_code": "12948001001",
+        "sense_code": "81884",
+        "type": [
+          "일반어",
+          "동의어"
+        ],
+        "definition": "암탉이나 갈매기 따위가 내는 소리가 자꾸 나다.",
+        "definition_original": "암탉이나 갈매기 따위가 내는 소리가 자꾸 나다.",
+        "unit": "의미",
+        "link_target_code": "339726",
+        "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=12947&searchKeywordTo=3"
+      }
+    }
+  },
+  {
+    "term": "걀걀-하다",
+    "definitions": [
+      "암탉이나 갈매기 따위의 소리가 나다."
+    ],
+    "source": "stdict",
+    "senses": [
+      {
+        "sense_code": "81885",
+        "type": "일반어",
+        "definition": "암탉이나 갈매기 따위의 소리가 나다.",
+        "definition_original": "암탉이나 갈매기 따위의 소리가 나다.",
+        "example": "벌써 며칠째 걀걀하고 알 낳을 자리를 보던데요.",
+        "source": "황순원, 소나기"
+      }
+    ],
+    "attrs": {
+      "wordInfo": {
+        "word": "걀걀-하다",
+        "word_unit": "단어",
+        "word_type": "고유어",
+        "pronunciation": "걀걀하다",
+        "conjugation": [
+          "걀걀하여",
+          "걀걀하니"
+        ],
+        "abbreviation": "걀걀해",
+        "pos_code": "392645001",
+        "pos": "동사",
+        "comm_pattern_code": "392645001001",
+        "sense_code": "81885",
+        "type": "일반어",
+        "definition": "암탉이나 갈매기 따위의 소리가 나다.",
+        "definition_original": "암탉이나 갈매기 따위의 소리가 나다.",
+        "example": "벌써 며칠째 걀걀하고 알 낳을 자리를 보던데요.",
+        "source": "황순원, 소나기"
+      }
+    }
+  },
+  {
+    "term": "걀쭉",
+    "definitions": [
+      "‘걀쭉하다’의 어근."
+    ],
+    "source": "stdict",
+    "senses": [
+      {
+        "sense_code": "81891",
+        "type": "일반어",
+        "definition": "‘걀쭉하다’의 어근.",
+        "definition_original": "‘<sense_no>412933</sense_no>걀쭉하다’의 어근."
+      }
+    ],
+    "attrs": {
+      "wordInfo": {
+        "word": [
+          "걀쭉",
+          "걀쭉-하다",
+          "걀쭉-이"
+        ],
+        "word_unit": "단어",
+        "word_type": "고유어",
+        "type": [
+          "부표제어",
+          "부표제어",
+          "일반어"
+        ],
+        "link_target_code": [
+          "392649",
+          "392648"
+        ],
+        "link": [
+          "https://stdict.korean.go.kr/search/searchView.do?word_no=392649&searchKeywordTo=1",
+          "https://stdict.korean.go.kr/search/searchView.do?word_no=392648&searchKeywordTo=1"
+        ],
+        "pos_code": "12955001",
+        "pos": "품사 없음",
+        "comm_pattern_code": "12955001001",
+        "sense_code": "81891",
+        "definition": "‘걀쭉하다’의 어근.",
+        "definition_original": "‘<sense_no>412933</sense_no>걀쭉하다’의 어근."
+      }
+    }
+  },
+  {
+    "term": "걀쭉-걀쭉",
+    "definitions": [
+      "여럿이 다 보기 좋을 정도로 조금 긴 모양."
+    ],
+    "source": "stdict",
+    "senses": [
+      {
+        "sense_code": "81893",
+        "type": "일반어",
+        "definition": "여럿이 다 보기 좋을 정도로 조금 긴 모양.",
+        "definition_original": "여럿이 다 보기 좋을 정도로 조금 긴 모양.",
+        "example": "아이들이 다 걀쭉걀쭉 곱게 생겼다."
+      }
+    ],
+    "attrs": {
+      "wordInfo": {
+        "word": [
+          "걀쭉-걀쭉",
+          "걀쭉걀쭉-하다",
+          "길쭉-길쭉"
+        ],
+        "word_unit": "단어",
+        "word_type": "고유어",
+        "pronunciation": "걀쭉꺌쭉",
+        "type": [
+          "부표제어",
+          "참고 어휘",
+          "일반어"
+        ],
+        "link_target_code": [
+          "12957",
+          "53280"
+        ],
+        "link": [
+          "https://stdict.korean.go.kr/search/searchView.do?word_no=12957&searchKeywordTo=1",
+          "https://stdict.korean.go.kr/search/searchView.do?word_no=53280&searchKeywordTo=3"
+        ],
+        "unit": "어휘",
+        "pos_code": "12956001",
+        "pos": "부사",
+        "comm_pattern_code": "12956001001",
+        "sense_code": "81893",
+        "definition": "여럿이 다 보기 좋을 정도로 조금 긴 모양.",
+        "definition_original": "여럿이 다 보기 좋을 정도로 조금 긴 모양.",
+        "example": "아이들이 다 걀쭉걀쭉 곱게 생겼다."
+      }
+    }
+  },
+  {
+    "term": "걀쭉걀쭉-하다",
+    "definitions": [
+      "여럿이 다 보기 좋을 정도로 조금 길다."
+    ],
+    "source": "stdict",
+    "senses": [
+      {
+        "sense_code": "81894",
+        "type": "일반어",
+        "definition": "여럿이 다 보기 좋을 정도로 조금 길다.",
+        "definition_original": "여럿이 다 보기 좋을 정도로 조금 길다.",
+        "example": "그 밭에는 가지들이 걀쭉걀쭉하게 열려 있었다."
+      }
+    ],
+    "attrs": {
+      "wordInfo": {
+        "word": "걀쭉걀쭉-하다",
+        "word_unit": "단어",
+        "word_type": "고유어",
+        "pronunciation": "걀쭉꺌쭈카다",
+        "conjugation": [
+          "걀쭉걀쭉하여",
+          "걀쭉걀쭉하니"
+        ],
+        "abbreviation": "걀쭉걀쭉해",
+        "pos_code": "12957001",
+        "pos": "형용사",
+        "comm_pattern_code": "12957001001",
+        "sense_code": "81894",
+        "type": "일반어",
+        "definition": "여럿이 다 보기 좋을 정도로 조금 길다.",
+        "definition_original": "여럿이 다 보기 좋을 정도로 조금 길다.",
+        "example": "그 밭에는 가지들이 걀쭉걀쭉하게 열려 있었다."
+      }
+    }
+  },
+  {
+    "term": "걀쭉스름",
+    "definitions": [
+      "‘걀쭉스름하다’의 어근."
+    ],
+    "source": "stdict",
+    "senses": [
+      {
+        "sense_code": "81896",
+        "type": "일반어",
+        "definition": "‘걀쭉스름하다’의 어근.",
+        "definition_original": "‘<sense_no>81897</sense_no>걀쭉스름하다’의 어근."
+      }
+    ],
+    "attrs": {
+      "wordInfo": {
+        "word": [
+          "걀쭉스름",
+          "걀쭉스름-하다"
+        ],
+        "word_unit": "단어",
+        "word_type": "고유어",
+        "type": [
+          "부표제어",
+          "일반어"
+        ],
+        "link_target_code": "11284",
+        "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=11284&searchKeywordTo=1",
+        "pos_code": "12959001",
+        "pos": "품사 없음",
+        "comm_pattern_code": "12959001001",
+        "sense_code": "81896",
+        "definition": "‘걀쭉스름하다’의 어근.",
+        "definition_original": "‘<sense_no>81897</sense_no>걀쭉스름하다’의 어근."
+      }
+    }
+  },
+  {
+    "term": "걀쭉스름-하다",
+    "definitions": [
+      "조금 걀쭉하다."
+    ],
+    "source": "stdict",
+    "senses": [
+      {
+        "sense_code": "81897",
+        "type": "일반어",
+        "definition": "조금 걀쭉하다.",
+        "definition_original": "조금 걀쭉하다."
+      }
+    ],
+    "attrs": {
+      "wordInfo": {
+        "word": [
+          "걀쭉스름-하다",
+          "길쭉스름-하다"
+        ],
+        "word_unit": "단어",
+        "word_type": "고유어",
+        "pronunciation": "걀쭉쓰름하다",
+        "conjugation": [
+          "걀쭉스름하여",
+          "걀쭉스름하니"
+        ],
+        "abbreviation": "걀쭉스름해",
+        "unit": "어휘",
+        "type": [
+          "참고 어휘",
+          "일반어"
+        ],
+        "link_target_code": "53667",
+        "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=53667&searchKeywordTo=3",
+        "pos_code": "11284001",
+        "pos": "형용사",
+        "comm_pattern_code": "11284001001",
+        "sense_code": "81897",
+        "definition": "조금 걀쭉하다.",
+        "definition_original": "조금 걀쭉하다."
+      }
+    }
+  },
+  {
+    "term": "걀쭉-이",
+    "definitions": [
+      "보기 좋을 정도로 조금 길게."
+    ],
+    "source": "stdict",
+    "senses": [
+      {
+        "sense_code": "81892",
+        "type": "일반어",
+        "definition": "보기 좋을 정도로 조금 길게.",
+        "definition_original": "보기 좋을 정도로 조금 길게.",
+        "example": "저 애도 제 엄마의 얼굴을 닮아 걀쭉이 생겼다."
+      }
+    ],
+    "attrs": {
+      "wordInfo": {
+        "word": "걀쭉-이",
+        "word_unit": "단어",
+        "word_type": "고유어",
+        "pronunciation": "걀쭈기",
+        "pos_code": "392648001",
+        "pos": "부사",
+        "comm_pattern_code": "392648001001",
+        "sense_code": "81892",
+        "type": "일반어",
+        "definition": "보기 좋을 정도로 조금 길게.",
+        "definition_original": "보기 좋을 정도로 조금 길게.",
+        "example": "저 애도 제 엄마의 얼굴을 닮아 걀쭉이 생겼다."
+      }
+    }
+  },
+  {
+    "term": "걀쭉-하다",
+    "definitions": [
+      "보기 좋을 정도로 조금 길다."
+    ],
+    "source": "stdict",
+    "senses": [
+      {
+        "sense_code": "412933",
+        "type": "일반어",
+        "definition": "보기 좋을 정도로 조금 길다.",
+        "definition_original": "보기 좋을 정도로 조금 길다.",
+        "example": [
+          "글씨체가 걀쭉하다.",
+          "그의 걀쭉한 턱엔 솜털이 보송보송 나 있었다.",
+          "비렁뱅이들은…목을 걀쭉하게 늘여 빼고, 엉덩이를 뒤로 삐딱하게 내민 채 어깻죽지를 옴죽거리며 장단을 맞췄다."
+        ],
+        "source": "문순태, 타오르는 강"
+      }
+    ],
+    "attrs": {
+      "wordInfo": {
+        "word": [
+          "걀쭉-하다",
+          "길쭉-하다"
+        ],
+        "word_unit": "단어",
+        "word_type": "고유어",
+        "pronunciation": "걀쭈카다",
+        "conjugation": [
+          "걀쭉하여",
+          "걀쭉하니"
+        ],
+        "abbreviation": "걀쭉해",
+        "unit": "어휘",
+        "type": [
+          "참고 어휘",
+          "일반어"
+        ],
+        "link_target_code": "400418",
+        "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=400418&searchKeywordTo=3",
+        "pos_code": "392649001",
+        "pos": "형용사",
+        "comm_pattern_code": "392649001001",
+        "sense_code": "412933",
+        "definition": "보기 좋을 정도로 조금 길다.",
+        "definition_original": "보기 좋을 정도로 조금 길다.",
+        "example": [
+          "글씨체가 걀쭉하다.",
+          "그의 걀쭉한 턱엔 솜털이 보송보송 나 있었다.",
+          "비렁뱅이들은…목을 걀쭉하게 늘여 빼고, 엉덩이를 뒤로 삐딱하게 내민 채 어깻죽지를 옴죽거리며 장단을 맞췄다."
+        ],
+        "source": "문순태, 타오르는 강"
+      }
+    }
+  },
+  {
+    "term": "걀쯔막",
+    "definitions": [
+      "‘걀쯔막하다’의 어근."
+    ],
+    "source": "stdict",
+    "senses": [
+      {
+        "sense_code": "81898",
+        "type": "일반어",
+        "definition": "‘걀쯔막하다’의 어근.",
+        "definition_original": "‘<sense_no>81899</sense_no>걀쯔막하다’의 어근."
+      }
+    ],
+    "attrs": {
+      "wordInfo": {
+        "word": [
+          "걀쯔막",
+          "걀쯔막-하다"
+        ],
+        "word_unit": "단어",
+        "word_type": "고유어",
+        "type": [
+          "부표제어",
+          "일반어"
+        ],
+        "link_target_code": "11286",
+        "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=11286&searchKeywordTo=1",
+        "pos_code": "11285001",
+        "pos": "품사 없음",
+        "comm_pattern_code": "11285001001",
+        "sense_code": "81898",
+        "definition": "‘걀쯔막하다’의 어근.",
+        "definition_original": "‘<sense_no>81899</sense_no>걀쯔막하다’의 어근."
+      }
+    }
+  },
+  {
+    "term": "걀쯔막-하다",
+    "definitions": [
+      "조금 넉넉히 갸름하다."
+    ],
+    "source": "stdict",
+    "senses": [
+      {
+        "sense_code": "81899",
+        "type": "일반어",
+        "definition": "조금 넉넉히 갸름하다.",
+        "definition_original": "조금 넉넉히 갸름하다.",
+        "example": "목을 걀쯔막하게 빼다."
+      }
+    ],
+    "attrs": {
+      "wordInfo": {
+        "word": [
+          "걀쯔막-하다",
+          "길쯔막-하다"
+        ],
+        "word_unit": "단어",
+        "word_type": "고유어",
+        "pronunciation": "걀쯔마카다",
+        "conjugation": [
+          "걀쯔막하여",
+          "걀쯔막하니"
+        ],
+        "abbreviation": "걀쯔막해",
+        "unit": "어휘",
+        "type": [
+          "참고 어휘",
+          "일반어"
+        ],
+        "link_target_code": "53669",
+        "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=53669&searchKeywordTo=3",
+        "pos_code": "11286001",
+        "pos": "형용사",
+        "comm_pattern_code": "11286001001",
+        "sense_code": "81899",
+        "definition": "조금 넉넉히 갸름하다.",
+        "definition_original": "조금 넉넉히 갸름하다.",
+        "example": "목을 걀쯔막하게 빼다."
+      }
+    }
+  },
+  {
+    "term": "걀쯤",
+    "definitions": [
+      "‘걀쯤하다’의 어근."
+    ],
+    "source": "stdict",
+    "senses": [
+      {
+        "sense_code": "81900",
+        "type": "일반어",
+        "definition": "‘걀쯤하다’의 어근.",
+        "definition_original": "‘<sense_no>523566</sense_no>걀쯤하다’의 어근."
+      }
+    ],
+    "attrs": {
+      "wordInfo": {
+        "word": [
+          "걀쯤",
+          "걀쯤-하다",
+          "걀쯤-이"
+        ],
+        "word_unit": "단어",
+        "word_type": "고유어",
+        "type": [
+          "부표제어",
+          "부표제어",
+          "일반어"
+        ],
+        "link_target_code": [
+          "12122",
+          "12121"
+        ],
+        "link": [
+          "https://stdict.korean.go.kr/search/searchView.do?word_no=12122&searchKeywordTo=1",
+          "https://stdict.korean.go.kr/search/searchView.do?word_no=12121&searchKeywordTo=1"
+        ],
+        "pos_code": "11287001",
+        "pos": "품사 없음",
+        "comm_pattern_code": "11287001001",
+        "sense_code": "81900",
+        "definition": "‘걀쯤하다’의 어근.",
+        "definition_original": "‘<sense_no>523566</sense_no>걀쯤하다’의 어근."
+      }
+    }
+  },
+  {
+    "term": "걀쯤-걀쯤",
+    "definitions": [
+      "여럿이 다 꽤 갸름한 모양."
+    ],
+    "source": "stdict",
+    "senses": [
+      {
+        "sense_code": "376294",
+        "type": "일반어",
+        "definition": "여럿이 다 꽤 갸름한 모양.",
+        "definition_original": "여럿이 다 꽤 갸름한 모양.",
+        "example": "무말랭이를 걀쯤걀쯤 썰다."
+      }
+    ],
+    "attrs": {
+      "wordInfo": {
+        "word": [
+          "걀쯤-걀쯤",
+          "걀쯤걀쯤-하다",
+          "길쯤-길쯤"
+        ],
+        "word_unit": "단어",
+        "word_type": "고유어",
+        "pronunciation": "걀쯤걀쯤",
+        "type": [
+          "부표제어",
+          "참고 어휘",
+          "일반어"
+        ],
+        "link_target_code": [
+          "12124",
+          "53674"
+        ],
+        "link": [
+          "https://stdict.korean.go.kr/search/searchView.do?word_no=12124&searchKeywordTo=1",
+          "https://stdict.korean.go.kr/search/searchView.do?word_no=53674&searchKeywordTo=3"
+        ],
+        "unit": "어휘",
+        "pos_code": "12123001",
+        "pos": "부사",
+        "comm_pattern_code": "12123001001",
+        "sense_code": "376294",
+        "definition": "여럿이 다 꽤 갸름한 모양.",
+        "definition_original": "여럿이 다 꽤 갸름한 모양.",
+        "example": "무말랭이를 걀쯤걀쯤 썰다."
+      }
+    }
+  },
+  {
+    "term": "걀쯤걀쯤-하다",
+    "definitions": [
+      "여럿이 다 꽤 갸름하다."
+    ],
+    "source": "stdict",
+    "senses": [
+      {
+        "sense_code": "81126",
+        "type": "일반어",
+        "definition": "여럿이 다 꽤 갸름하다.",
+        "definition_original": "여럿이 다 꽤 갸름하다.",
+        "example": "걀쯤걀쯤하게 썰어 놓은 떡."
+      }
+    ],
+    "attrs": {
+      "wordInfo": {
+        "word": "걀쯤걀쯤-하다",
+        "word_unit": "단어",
+        "word_type": "고유어",
+        "pronunciation": "걀쯤걀쯤하다",
+        "conjugation": [
+          "걀쯤걀쯤하여",
+          "걀쯤걀쯤하니"
+        ],
+        "abbreviation": "걀쯤걀쯤해",
+        "pos_code": "12124001",
+        "pos": "형용사",
+        "comm_pattern_code": "12124001001",
+        "sense_code": "81126",
+        "type": "일반어",
+        "definition": "여럿이 다 꽤 갸름하다.",
+        "definition_original": "여럿이 다 꽤 갸름하다.",
+        "example": "걀쯤걀쯤하게 썰어 놓은 떡."
+      }
+    }
+  },
+  {
+    "term": "걀쯤-이",
+    "definitions": [
+      "꽤 갸름하게."
+    ],
+    "source": "stdict",
+    "senses": [
+      {
+        "sense_code": "412934",
+        "type": "일반어",
+        "definition": "꽤 갸름하게.",
+        "definition_original": "꽤 갸름하게."
+      }
+    ],
+    "attrs": {
+      "wordInfo": {
+        "word": "걀쯤-이",
+        "word_unit": "단어",
+        "word_type": "고유어",
+        "pronunciation": "걀쯔미",
+        "pos_code": "12121001",
+        "pos": "부사",
+        "comm_pattern_code": "12121001001",
+        "sense_code": "412934",
+        "type": "일반어",
+        "definition": "꽤 갸름하게.",
+        "definition_original": "꽤 갸름하게."
+      }
+    }
+  },
+  {
+    "term": "걀쯤-하다",
+    "definitions": [
+      "꽤 갸름하다."
+    ],
+    "source": "stdict",
+    "senses": [
+      {
+        "sense_code": "523566",
+        "type": "일반어",
+        "definition": "꽤 갸름하다.",
+        "definition_original": "꽤 갸름하다.",
+        "example": "동생은 할머니가 시킨 대로 걀쯤한 가지로만 골라서 따 왔다."
+      }
+    ],
+    "attrs": {
+      "wordInfo": {
+        "word": [
+          "걀쯤-하다",
+          "길쯤-하다"
+        ],
+        "word_unit": "단어",
+        "word_type": "고유어",
+        "pronunciation": "걀쯤하다",
+        "conjugation": [
+          "걀쯤하여",
+          "걀쯤하니"
+        ],
+        "abbreviation": "걀쯤해",
+        "unit": "어휘",
+        "type": [
+          "참고 어휘",
+          "일반어"
+        ],
+        "link_target_code": "53673",
+        "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=53673&searchKeywordTo=3",
+        "pos_code": "12122001",
+        "pos": "형용사",
+        "comm_pattern_code": "12122001001",
+        "sense_code": "523566",
+        "definition": "꽤 갸름하다.",
+        "definition_original": "꽤 갸름하다.",
+        "example": "동생은 할머니가 시킨 대로 걀쯤한 가지로만 골라서 따 왔다."
+      }
+    }
+  },
+  {
+    "term": "걀찍",
+    "definitions": [
+      "‘걀찍하다’의 어근."
+    ],
+    "source": "stdict",
+    "senses": [
+      {
+        "sense_code": "81128",
+        "type": "일반어",
+        "definition": "‘걀찍하다’의 어근.",
+        "definition_original": "‘<sense_no>560174</sense_no>걀찍하다’의 어근."
+      }
+    ],
+    "attrs": {
+      "wordInfo": {
+        "word": [
+          "걀찍",
+          "걀찍-하다",
+          "걀찍-이"
+        ],
+        "word_unit": "단어",
+        "word_type": "고유어",
+        "type": [
+          "부표제어",
+          "부표제어",
+          "일반어"
+        ],
+        "link_target_code": [
+          "12129",
+          "12128"
+        ],
+        "link": [
+          "https://stdict.korean.go.kr/search/searchView.do?word_no=12129&searchKeywordTo=1",
+          "https://stdict.korean.go.kr/search/searchView.do?word_no=12128&searchKeywordTo=1"
+        ],
+        "pos_code": "12127001",
+        "pos": "품사 없음",
+        "comm_pattern_code": "12127001001",
+        "sense_code": "81128",
+        "definition": "‘걀찍하다’의 어근.",
+        "definition_original": "‘<sense_no>560174</sense_no>걀찍하다’의 어근."
+      }
+    }
+  },
+  {
+    "term": "걀찍-걀찍",
+    "definitions": [
+      "여럿이 다 길이가 알맞게 긴 듯한 모양."
+    ],
+    "source": "stdict",
+    "senses": [
+      {
+        "sense_code": "449996",
+        "type": "일반어",
+        "definition": "여럿이 다 길이가 알맞게 긴 듯한 모양.",
+        "definition_original": "여럿이 다 길이가 알맞게 긴 듯한 모양.",
+        "example": [
+          "무를 걀찍걀찍 썰다.",
+          "재래종 오이는 걀찍걀찍 생겼다."
+        ]
+      }
+    ],
+    "attrs": {
+      "wordInfo": {
+        "word": [
+          "걀찍-걀찍",
+          "걀찍걀찍-하다",
+          "길찍-길찍"
+        ],
+        "word_unit": "단어",
+        "word_type": "고유어",
+        "pronunciation": "걀찍꺌찍",
+        "type": [
+          "부표제어",
+          "참고 어휘",
+          "일반어"
+        ],
+        "link_target_code": [
+          "12187",
+          "53677"
+        ],
+        "link": [
+          "https://stdict.korean.go.kr/search/searchView.do?word_no=12187&searchKeywordTo=1",
+          "https://stdict.korean.go.kr/search/searchView.do?word_no=53677&searchKeywordTo=3"
+        ],
+        "unit": "어휘",
+        "pos_code": "12186001",
+        "pos": "부사",
+        "comm_pattern_code": "12186001001",
+        "sense_code": "449996",
+        "definition": "여럿이 다 길이가 알맞게 긴 듯한 모양.",
+        "definition_original": "여럿이 다 길이가 알맞게 긴 듯한 모양.",
+        "example": [
+          "무를 걀찍걀찍 썰다.",
+          "재래종 오이는 걀찍걀찍 생겼다."
+        ]
+      }
+    }
+  },
+  {
+    "term": "걀찍걀찍-하다",
+    "definitions": [
+      "여럿이 다 길이가 알맞게 긴 듯하다."
+    ],
+    "source": "stdict",
+    "senses": [
+      {
+        "sense_code": "376295",
+        "type": "일반어",
+        "definition": "여럿이 다 길이가 알맞게 긴 듯하다.",
+        "definition_original": "여럿이 다 길이가 알맞게 긴 듯하다.",
+        "example": "걀찍걀찍하게 생긴 생선들."
+      }
+    ],
+    "attrs": {
+      "wordInfo": {
+        "word": "걀찍걀찍-하다",
+        "word_unit": "단어",
+        "word_type": "고유어",
+        "pronunciation": "걀찍꺌찌카다",
+        "conjugation": [
+          "걀찍걀찍하여",
+          "걀찍걀찍하니"
+        ],
+        "abbreviation": "걀찍걀찍해",
+        "pos_code": "12187001",
+        "pos": "형용사",
+        "comm_pattern_code": "12187001001",
+        "sense_code": "376295",
+        "type": "일반어",
+        "definition": "여럿이 다 길이가 알맞게 긴 듯하다.",
+        "definition_original": "여럿이 다 길이가 알맞게 긴 듯하다.",
+        "example": "걀찍걀찍하게 생긴 생선들."
+      }
+    }
+  },
+  {
+    "term": "걀찍-이",
+    "definitions": [
+      "길이가 알맞게 긴 듯이."
+    ],
+    "source": "stdict",
+    "senses": [
+      {
+        "sense_code": "339632",
+        "type": "일반어",
+        "definition": "길이가 알맞게 긴 듯이.",
+        "definition_original": "길이가 알맞게 긴 듯이."
+      }
+    ],
+    "attrs": {
+      "wordInfo": {
+        "word": "걀찍-이",
+        "word_unit": "단어",
+        "word_type": "고유어",
+        "pronunciation": "걀찌기",
+        "pos_code": "12128001",
+        "pos": "부사",
+        "comm_pattern_code": "12128001001",
+        "sense_code": "339632",
+        "type": "일반어",
+        "definition": "길이가 알맞게 긴 듯이.",
+        "definition_original": "길이가 알맞게 긴 듯이."
+      }
+    }
+  },
+  {
+    "term": "걀찍-하다",
+    "definitions": [
+      "길이가 알맞게 긴 듯하다."
+    ],
+    "source": "stdict",
+    "senses": [
+      {
+        "sense_code": "560174",
+        "type": "일반어",
+        "definition": "길이가 알맞게 긴 듯하다.",
+        "definition_original": "길이가 알맞게 긴 듯하다.",
+        "example": "그 여자는 목이 걀찍하니 미인형으로 생겼다."
+      }
+    ],
+    "attrs": {
+      "wordInfo": {
+        "word": [
+          "걀찍-하다",
+          "길찍-하다"
+        ],
+        "word_unit": "단어",
+        "word_type": "고유어",
+        "pronunciation": "걀찌카다",
+        "conjugation": [
+          "걀찍하여",
+          "걀찍하니"
+        ],
+        "abbreviation": "걀찍해",
+        "unit": "어휘",
+        "type": [
+          "참고 어휘",
+          "일반어"
+        ],
+        "link_target_code": "400218",
+        "link": "https://stdict.korean.go.kr/search/searchView.do?word_no=400218&searchKeywordTo=3",
+        "pos_code": "12129001",
+        "pos": "형용사",
+        "comm_pattern_code": "12129001001",
+        "sense_code": "560174",
+        "definition": "길이가 알맞게 긴 듯하다.",
+        "definition_original": "길이가 알맞게 긴 듯하다.",
+        "example": "그 여자는 목이 걀찍하니 미인형으로 생겼다."
+      }
+    }
+  }
+]
