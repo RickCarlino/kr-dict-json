@@ -93,8 +93,7 @@ function isEligible(text: string) {
   const words = text.split(" ").filter(Boolean);
   if (words.length < 3) return false;
   const length = Array.from(text).length;
-  if (length < 8 || length > 18) return false;
-  if (text.endsWith("다.") || text.endsWith("다")) return false;
+  if (length < 9 || length > 18) return false;
   if (text.includes("(") || text.includes(")")) return false;
   return true;
 }
