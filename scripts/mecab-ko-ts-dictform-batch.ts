@@ -23,12 +23,14 @@ const CONTENT_POS = new Set([
   "SN",
   "SL",
   "SH",
+  "XR",
   "MAG",
   "MAJ",
   "MM",
   "IC",
 ]);
 const VERB_POS = new Set(["VV", "VA", "VX", "VCP", "VCN"]);
+const DERIVATION_BASE_POS = new Set(["NNG", "NNP", "NNB", "NR", "NP", "SN", "SL", "SH", "XR"]);
 
 const args = process.argv.slice(2);
 const inDir = getArg("--in-dir") ?? "out/mini";
@@ -174,11 +176,22 @@ function makeAllAnalyzer(mecab: any) {
 
 function toDictionaryForms(tokens: MecabToken[]) {
   const out: string[] = [];
-  for (const token of tokens) {
+  for (let i = 0; i < tokens.length; i += 1) {
+    const token = tokens[i];
     const surface = token[0] ?? "";
     const rawPos = token[1] ?? "";
     const pos = rawPos.split("+")[0] ?? rawPos;
     const lemma = pickLemma(token, surface);
+
+    const next = tokens[i + 1];
+    if (next && DERIVATION_BASE_POS.has(pos) && hasDerivationSuffix(next[1])) {
+      const base = extractDerivationBase(next);
+      if (base) {
+        out.push(`${lemma}${toVerbLemma(base)}`);
+        i += 1;
+        continue;
+      }
+    }
 
     if (VERB_POS.has(pos)) {
       out.push(toVerbLemma(lemma));
@@ -199,6 +212,22 @@ function pickLemma(fields: string[], surface: string) {
 
 function toVerbLemma(lemma: string) {
   return lemma.endsWith("다") ? lemma : `${lemma}다`;
+}
+
+function hasDerivationSuffix(rawPos: string | undefined) {
+  if (!rawPos) return false;
+  return rawPos.includes("XSA") || rawPos.includes("XSV");
+}
+
+function extractDerivationBase(fields: string[]) {
+  const expr = fields[8];
+  if (expr && expr !== "*") {
+    const first = expr.split("+")[0] ?? "";
+    const base = first.split("/")[0] ?? "";
+    if (base && base !== "*") return base;
+  }
+  const lemma = pickLemma(fields, "");
+  return lemma || null;
 }
 
 function writeChunk(outPath: string, index: number, data: SentenceResult[]) {
