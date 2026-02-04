@@ -4,11 +4,16 @@
   "workspaces": {
     "": {
       "dependencies": {
+        "mecab-ko-ts": "^0.1.1",
         "sax": "^1.4.4",
       },
     },
   },
   "packages": {
+    "mecab-ko-ts": ["mecab-ko-ts@0.1.1", "", { "dependencies": { "shell-quote": "^1.5.0" } }, "sha512-NCreJHGwg9B5l2CGHvu3mqpkkl4J6VIPAVtw5LjsRgtXcES98Ie1HoEB8hx7LzEducJztnJ9w/3/s2M4NuianQ=="],
+
     "sax": ["sax@1.4.4", "", {}, "sha512-1n3r/tGXO6b6VXMdFT54SHzT9ytu9yr7TaELowdYpMqY/Ao7EnlQGmAQ1+RatX7Tkkdm6hONI2owqNx2aZj5Sw=="],
+
+    "shell-quote": ["shell-quote@1.8.3", "", {}, "sha512-ObmnIF4hXNg1BqhnHmgbDETF8dLPCggZWBjkQfhZpbszZnYur5DUljTcCHii5LC3J5E0yeO/1LIMyH+UvHQgyw=="],
   }
 }
