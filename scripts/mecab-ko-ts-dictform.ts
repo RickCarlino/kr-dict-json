@@ -18,6 +18,7 @@ const CONTENT_POS = new Set([
   "NNG",
   "NNP",
   "NNB",
+  "NNBC",
   "NR",
   "NP",
   "SN",
@@ -30,7 +31,18 @@ const CONTENT_POS = new Set([
   "IC",
 ]);
 const VERB_POS = new Set(["VV", "VA", "VX", "VCP", "VCN"]);
-const DERIVATION_BASE_POS = new Set(["NNG", "NNP", "NNB", "NR", "NP", "SN", "SL", "SH", "XR"]);
+const DERIVATION_BASE_POS = new Set([
+  "NNG",
+  "NNP",
+  "NNB",
+  "NNBC",
+  "NR",
+  "NP",
+  "SN",
+  "SL",
+  "SH",
+  "XR",
+]);
 
 const args = process.argv.slice(2);
 const inputArg = getArg("--in") ?? "out/mini/mini-001.json";
@@ -161,7 +173,7 @@ function toDictionaryForms(tokens: MecabToken[]) {
     }
 
     if (VERB_POS.has(pos)) {
-      out.push(toVerbLemma(lemma));
+      out.push(getVerbLemma(token, surface));
       continue;
     }
     if (CONTENT_POS.has(pos)) {
@@ -177,8 +189,12 @@ function pickLemma(fields: string[], surface: string) {
   return surface;
 }
 
-function toVerbLemma(lemma: string) {
-  return lemma.endsWith("다") ? lemma : `${lemma}다`;
+function getVerbLemma(fields: string[], surface: string) {
+  const rawPos = fields[1] ?? "";
+  const useExpr = rawPos.includes("+");
+  const base = useExpr ? extractBaseFromExpr(fields) : null;
+  const lemma = base ?? pickLemma(fields, surface);
+  return toVerbLemma(lemma);
 }
 
 function hasDerivationSuffix(rawPos: string | undefined) {
@@ -187,12 +203,22 @@ function hasDerivationSuffix(rawPos: string | undefined) {
 }
 
 function extractDerivationBase(fields: string[]) {
+  const base = extractBaseFromExpr(fields);
+  if (base) return base;
+  const lemma = pickLemma(fields, "");
+  return lemma || null;
+}
+
+function extractBaseFromExpr(fields: string[]) {
   const expr = fields[8];
   if (expr && expr !== "*") {
     const first = expr.split("+")[0] ?? "";
     const base = first.split("/")[0] ?? "";
     if (base && base !== "*") return base;
   }
-  const lemma = pickLemma(fields, "");
-  return lemma || null;
+  return null;
+}
+
+function toVerbLemma(lemma: string) {
+  return lemma.endsWith("다") ? lemma : `${lemma}다`;
 }

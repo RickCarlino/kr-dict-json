@@ -28,6 +28,7 @@ type OutputItem = {
   sequence: number;
   sentence: string;
   newWords: string[];
+  allWords: string[];
 };
 
 const args = process.argv.slice(2);
@@ -79,6 +80,7 @@ while (remaining.length > 0) {
         sequence,
         sentence: candidate.item.sentence,
         newWords: [],
+        allWords: candidate.item.words.slice(),
       });
       sequence += 1;
       zeroSet.add(candidate.item.sentence);
@@ -104,6 +106,7 @@ while (remaining.length > 0) {
     sequence,
     sentence: pick.item.sentence,
     newWords: pick.unknown.slice(),
+    allWords: pick.item.words.slice(),
   });
   sequence += 1;
 
